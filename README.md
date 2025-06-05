@@ -25,6 +25,7 @@ This project focuses on detecting neurological disorders—particularly epilepsy
 - **Samples**: ~54,000 segments labeled as seizure or non-seizure  
 - **Sampling Rate**: 256 Hz  
 - **Used For**: Binary classification of seizure activity
+- https://www.kaggle.com/datasets/adibadea/chbmitseizuredataset
 
 ---
 
